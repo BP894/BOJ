@@ -1,0 +1,14 @@
+D:\Desktop\알고리즘\BOJ\String\10809\bin\Debug\net7.0\10809.exe
+D:\Desktop\알고리즘\BOJ\String\10809\bin\Debug\net7.0\10809.deps.json
+D:\Desktop\알고리즘\BOJ\String\10809\bin\Debug\net7.0\10809.runtimeconfig.json
+D:\Desktop\알고리즘\BOJ\String\10809\bin\Debug\net7.0\10809.dll
+D:\Desktop\알고리즘\BOJ\String\10809\bin\Debug\net7.0\10809.pdb
+D:\Desktop\알고리즘\BOJ\String\10809\obj\Debug\net7.0\10809.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\알고리즘\BOJ\String\10809\obj\Debug\net7.0\10809.AssemblyInfoInputs.cache
+D:\Desktop\알고리즘\BOJ\String\10809\obj\Debug\net7.0\10809.AssemblyInfo.cs
+D:\Desktop\알고리즘\BOJ\String\10809\obj\Debug\net7.0\10809.csproj.CoreCompileInputs.cache
+D:\Desktop\알고리즘\BOJ\String\10809\obj\Debug\net7.0\10809.dll
+D:\Desktop\알고리즘\BOJ\String\10809\obj\Debug\net7.0\refint\10809.dll
+D:\Desktop\알고리즘\BOJ\String\10809\obj\Debug\net7.0\10809.pdb
+D:\Desktop\알고리즘\BOJ\String\10809\obj\Debug\net7.0\10809.genruntimeconfig.cache
+D:\Desktop\알고리즘\BOJ\String\10809\obj\Debug\net7.0\ref\10809.dll
