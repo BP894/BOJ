@@ -1,0 +1,14 @@
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\bin\Debug\net7.0\2480.exe
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\bin\Debug\net7.0\2480.deps.json
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\bin\Debug\net7.0\2480.runtimeconfig.json
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\bin\Debug\net7.0\2480.dll
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\bin\Debug\net7.0\2480.pdb
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\obj\Debug\net7.0\2480.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\obj\Debug\net7.0\2480.AssemblyInfoInputs.cache
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\obj\Debug\net7.0\2480.AssemblyInfo.cs
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\obj\Debug\net7.0\2480.csproj.CoreCompileInputs.cache
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\obj\Debug\net7.0\2480.dll
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\obj\Debug\net7.0\refint\2480.dll
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\obj\Debug\net7.0\2480.pdb
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\obj\Debug\net7.0\2480.genruntimeconfig.cache
+D:\Desktop\알고리즘\BOJ\Conditional Statement\2480\obj\Debug\net7.0\ref\2480.dll
