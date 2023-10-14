@@ -1,0 +1,14 @@
+D:\Desktop\알고리즘\BOJ\Loop\8393\bin\Debug\net7.0\8393.exe
+D:\Desktop\알고리즘\BOJ\Loop\8393\bin\Debug\net7.0\8393.deps.json
+D:\Desktop\알고리즘\BOJ\Loop\8393\bin\Debug\net7.0\8393.runtimeconfig.json
+D:\Desktop\알고리즘\BOJ\Loop\8393\bin\Debug\net7.0\8393.dll
+D:\Desktop\알고리즘\BOJ\Loop\8393\bin\Debug\net7.0\8393.pdb
+D:\Desktop\알고리즘\BOJ\Loop\8393\obj\Debug\net7.0\8393.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\알고리즘\BOJ\Loop\8393\obj\Debug\net7.0\8393.AssemblyInfoInputs.cache
+D:\Desktop\알고리즘\BOJ\Loop\8393\obj\Debug\net7.0\8393.AssemblyInfo.cs
+D:\Desktop\알고리즘\BOJ\Loop\8393\obj\Debug\net7.0\8393.csproj.CoreCompileInputs.cache
+D:\Desktop\알고리즘\BOJ\Loop\8393\obj\Debug\net7.0\8393.dll
+D:\Desktop\알고리즘\BOJ\Loop\8393\obj\Debug\net7.0\refint\8393.dll
+D:\Desktop\알고리즘\BOJ\Loop\8393\obj\Debug\net7.0\8393.pdb
+D:\Desktop\알고리즘\BOJ\Loop\8393\obj\Debug\net7.0\8393.genruntimeconfig.cache
+D:\Desktop\알고리즘\BOJ\Loop\8393\obj\Debug\net7.0\ref\8393.dll
