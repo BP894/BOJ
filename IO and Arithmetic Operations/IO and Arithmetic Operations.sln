@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1008.AB", "1008.AB\1008.AB.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10869.Arithmetic Operations", "10869.Arithmetic Operations\10869.Arithmetic Operations.csproj", "{8868403C-1220-4845-844A-41757B8E51DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10926", "10926\10926.csproj", "{948F5185-B2E9-4944-BE95-9C6EA9865E67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8868403C-1220-4845-844A-41757B8E51DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8868403C-1220-4845-844A-41757B8E51DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8868403C-1220-4845-844A-41757B8E51DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948F5185-B2E9-4944-BE95-9C6EA9865E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948F5185-B2E9-4944-BE95-9C6EA9865E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948F5185-B2E9-4944-BE95-9C6EA9865E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948F5185-B2E9-4944-BE95-9C6EA9865E67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
