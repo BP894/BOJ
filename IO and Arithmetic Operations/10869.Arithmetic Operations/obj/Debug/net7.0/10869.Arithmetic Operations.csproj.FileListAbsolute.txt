@@ -1,0 +1,14 @@
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\bin\Debug\net7.0\10869.Arithmetic Operations.exe
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\bin\Debug\net7.0\10869.Arithmetic Operations.deps.json
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\bin\Debug\net7.0\10869.Arithmetic Operations.runtimeconfig.json
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\bin\Debug\net7.0\10869.Arithmetic Operations.dll
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\bin\Debug\net7.0\10869.Arithmetic Operations.pdb
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\obj\Debug\net7.0\10869.Arithmetic Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\obj\Debug\net7.0\10869.Arithmetic Operations.AssemblyInfoInputs.cache
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\obj\Debug\net7.0\10869.Arithmetic Operations.AssemblyInfo.cs
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\obj\Debug\net7.0\10869.Arithmetic Operations.csproj.CoreCompileInputs.cache
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\obj\Debug\net7.0\10869.Arithmetic Operations.dll
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\obj\Debug\net7.0\refint\10869.Arithmetic Operations.dll
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\obj\Debug\net7.0\10869.Arithmetic Operations.pdb
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\obj\Debug\net7.0\10869.Arithmetic Operations.genruntimeconfig.cache
+D:\Desktop\알고리즘\BOJ\IO and Arithmetic Operations\10869.Arithmetic Operations\obj\Debug\net7.0\ref\10869.Arithmetic Operations.dll
