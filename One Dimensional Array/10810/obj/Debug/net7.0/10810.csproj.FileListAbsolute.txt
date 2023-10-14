@@ -1,0 +1,14 @@
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\bin\Debug\net7.0\10810.exe
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\bin\Debug\net7.0\10810.deps.json
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\bin\Debug\net7.0\10810.runtimeconfig.json
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\bin\Debug\net7.0\10810.dll
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\bin\Debug\net7.0\10810.pdb
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\obj\Debug\net7.0\10810.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\obj\Debug\net7.0\10810.AssemblyInfoInputs.cache
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\obj\Debug\net7.0\10810.AssemblyInfo.cs
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\obj\Debug\net7.0\10810.csproj.CoreCompileInputs.cache
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\obj\Debug\net7.0\10810.dll
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\obj\Debug\net7.0\refint\10810.dll
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\obj\Debug\net7.0\10810.pdb
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\obj\Debug\net7.0\10810.genruntimeconfig.cache
+D:\Desktop\알고리즘\BOJ\One Dimensional Array\10810\obj\Debug\net7.0\ref\10810.dll
