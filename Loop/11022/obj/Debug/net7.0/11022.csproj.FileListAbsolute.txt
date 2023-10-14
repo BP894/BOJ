@@ -1,0 +1,14 @@
+D:\Desktop\알고리즘\BOJ\Loop\11022\bin\Debug\net7.0\11022.exe
+D:\Desktop\알고리즘\BOJ\Loop\11022\bin\Debug\net7.0\11022.deps.json
+D:\Desktop\알고리즘\BOJ\Loop\11022\bin\Debug\net7.0\11022.runtimeconfig.json
+D:\Desktop\알고리즘\BOJ\Loop\11022\bin\Debug\net7.0\11022.dll
+D:\Desktop\알고리즘\BOJ\Loop\11022\bin\Debug\net7.0\11022.pdb
+D:\Desktop\알고리즘\BOJ\Loop\11022\obj\Debug\net7.0\11022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\알고리즘\BOJ\Loop\11022\obj\Debug\net7.0\11022.AssemblyInfoInputs.cache
+D:\Desktop\알고리즘\BOJ\Loop\11022\obj\Debug\net7.0\11022.AssemblyInfo.cs
+D:\Desktop\알고리즘\BOJ\Loop\11022\obj\Debug\net7.0\11022.csproj.CoreCompileInputs.cache
+D:\Desktop\알고리즘\BOJ\Loop\11022\obj\Debug\net7.0\11022.dll
+D:\Desktop\알고리즘\BOJ\Loop\11022\obj\Debug\net7.0\refint\11022.dll
+D:\Desktop\알고리즘\BOJ\Loop\11022\obj\Debug\net7.0\11022.pdb
+D:\Desktop\알고리즘\BOJ\Loop\11022\obj\Debug\net7.0\11022.genruntimeconfig.cache
+D:\Desktop\알고리즘\BOJ\Loop\11022\obj\Debug\net7.0\ref\11022.dll
