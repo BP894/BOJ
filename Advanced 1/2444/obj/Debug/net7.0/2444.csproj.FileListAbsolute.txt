@@ -1,0 +1,14 @@
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\bin\Debug\net7.0\2444.exe
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\bin\Debug\net7.0\2444.deps.json
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\bin\Debug\net7.0\2444.runtimeconfig.json
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\bin\Debug\net7.0\2444.dll
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\bin\Debug\net7.0\2444.pdb
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\obj\Debug\net7.0\2444.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\obj\Debug\net7.0\2444.AssemblyInfoInputs.cache
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\obj\Debug\net7.0\2444.AssemblyInfo.cs
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\obj\Debug\net7.0\2444.csproj.CoreCompileInputs.cache
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\obj\Debug\net7.0\2444.dll
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\obj\Debug\net7.0\refint\2444.dll
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\obj\Debug\net7.0\2444.pdb
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\obj\Debug\net7.0\2444.genruntimeconfig.cache
+D:\Desktop\알고리즘\BOJ\Advanced 1\2444\obj\Debug\net7.0\ref\2444.dll
