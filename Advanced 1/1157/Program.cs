@@ -15,8 +15,6 @@ namespace _1157
 
             foreach (char ch in input)
                 alpabet[ch - 'A']++;
-            foreach (int v in alpabet)
-                Console.Write(v + " ");
 
             for (int i = 0; i < alpabet.Length; i++)
             {
