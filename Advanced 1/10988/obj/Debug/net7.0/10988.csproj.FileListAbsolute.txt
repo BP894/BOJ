@@ -1,0 +1,14 @@
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\bin\Debug\net7.0\10988.exe
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\bin\Debug\net7.0\10988.deps.json
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\bin\Debug\net7.0\10988.runtimeconfig.json
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\bin\Debug\net7.0\10988.dll
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\bin\Debug\net7.0\10988.pdb
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\obj\Debug\net7.0\10988.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\obj\Debug\net7.0\10988.AssemblyInfoInputs.cache
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\obj\Debug\net7.0\10988.AssemblyInfo.cs
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\obj\Debug\net7.0\10988.csproj.CoreCompileInputs.cache
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\obj\Debug\net7.0\10988.dll
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\obj\Debug\net7.0\refint\10988.dll
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\obj\Debug\net7.0\10988.pdb
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\obj\Debug\net7.0\10988.genruntimeconfig.cache
+D:\Desktop\알고리즘\BOJ\Advanced 1\10988\obj\Debug\net7.0\ref\10988.dll
