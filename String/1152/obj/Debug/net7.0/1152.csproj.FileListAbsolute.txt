@@ -1,0 +1,14 @@
+D:\Desktop\알고리즘\BOJ\String\1152\bin\Debug\net7.0\1152.exe
+D:\Desktop\알고리즘\BOJ\String\1152\bin\Debug\net7.0\1152.deps.json
+D:\Desktop\알고리즘\BOJ\String\1152\bin\Debug\net7.0\1152.runtimeconfig.json
+D:\Desktop\알고리즘\BOJ\String\1152\bin\Debug\net7.0\1152.dll
+D:\Desktop\알고리즘\BOJ\String\1152\bin\Debug\net7.0\1152.pdb
+D:\Desktop\알고리즘\BOJ\String\1152\obj\Debug\net7.0\1152.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\알고리즘\BOJ\String\1152\obj\Debug\net7.0\1152.AssemblyInfoInputs.cache
+D:\Desktop\알고리즘\BOJ\String\1152\obj\Debug\net7.0\1152.AssemblyInfo.cs
+D:\Desktop\알고리즘\BOJ\String\1152\obj\Debug\net7.0\1152.csproj.CoreCompileInputs.cache
+D:\Desktop\알고리즘\BOJ\String\1152\obj\Debug\net7.0\1152.dll
+D:\Desktop\알고리즘\BOJ\String\1152\obj\Debug\net7.0\refint\1152.dll
+D:\Desktop\알고리즘\BOJ\String\1152\obj\Debug\net7.0\1152.pdb
+D:\Desktop\알고리즘\BOJ\String\1152\obj\Debug\net7.0\1152.genruntimeconfig.cache
+D:\Desktop\알고리즘\BOJ\String\1152\obj\Debug\net7.0\ref\1152.dll
